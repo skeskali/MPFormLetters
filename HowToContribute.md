@@ -1,6 +1,6 @@
 # How to Contribute (Simplified Instructions)
 
-- Create a Github account.
+- [Sign up for a Github account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't already have one. 
 -  Find the skeskali/MPFormLetters repository.
 -  On the front page of the repository, click **Create New File**
 
