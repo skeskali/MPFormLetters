@@ -3,7 +3,7 @@
 [City, Province]
 [Postal Code]
 
-[Dr/Ms/Mrs/Mr/] J. Doe (if MP/MPP/MLA) or
+[Dr/Ms/Mrs/Mr.] J. Doe (if MP/MPP/MLA) or
 [The Honourable J. Doe, Minister of [Ministry Name]] (if Minister)
 
 [Find Your MP by Postal Code](http://www.lop.parl.gc.ca/ParlInfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Language=E&PostalCode=&Submit=Find)
