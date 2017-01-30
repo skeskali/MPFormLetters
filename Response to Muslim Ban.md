@@ -4,7 +4,8 @@
 [Postal Code]
 
 [Dr/Mrs/Mr/] J. Doe (if MP/MPP/MLA) or
-[The Honourable J. Doe, Minister of (Ministry Name)] (if minister)
+[The Honourable J. Doe, Minister of [Ministry Name]] (if Minister)
+
 [Find Your MP by Postal Code](http://www.lop.parl.gc.ca/ParlInfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Language=E&PostalCode=&Submit=Find)
 
 Dear Dr./Mrs./Mr, J. Doe (MLA/MPP or MP) OR
