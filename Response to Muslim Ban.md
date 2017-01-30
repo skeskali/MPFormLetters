@@ -8,7 +8,7 @@
 
 [Find Your MP by Postal Code](http://www.lop.parl.gc.ca/ParlInfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Language=E&PostalCode=&Submit=Find)
 
-Dear Dr./Ms./Mrs./Mr, J. Doe (MLA/MPP or MP) OR
+Dear Dr./Ms./Mrs./Mr. J. Doe (MLA/MPP or MP) OR
 Dear Minister (if Cabinet Minister):
 
 As a citizen living in your riding, I’m writing this letter to share my concern regarding the recent travel ban in the United States. This action has left many innocent immigrants and already traumatized refugees in legal limbo or worse, sent back to countries where they may be in real danger.
